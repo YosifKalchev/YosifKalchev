@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yosif</h1>
-<h3 align="center">Senior android developer.</h3>
+<h3 align="center">Senior Android Developer.</h3>
 
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=YosifKalchev&show_icons=true&locale=en" alt="YosifKalchev" /></p>
