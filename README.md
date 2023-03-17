@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Yosif</h1>
-<h3 align="center">Senior Android Developer.</h3>
+<h2 align="center">Senior Android Developer</h3>
 
 
 <p align="center">
