@@ -1,13 +1,14 @@
 <h1 align="center"> Hello 👋, I'm Yosif </h1>
 <h2 align="center"> Senior Android Developer </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=YosifKalchev&label=Profile%20views&color=0e75b6&style=flat" alt="YosifKalchev" /> </p>
-
+<!---
 <p align="center">
   <a href="https://github.com/YosifKalchev">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=YosifKalchev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yosif's GitHub Stats" />
+</p>-->
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YosifKalchev&theme=dark&border_radius=9&card_width=512" alt="GitHub Streak" /></a>
 </p>
-
-
 
 
 <h3 align="center">Languages and Tools:</h3>
