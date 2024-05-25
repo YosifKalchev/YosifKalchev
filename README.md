@@ -1,14 +1,12 @@
 <h1 align="center"> Hello 👋, I'm Yosif </h1>
-<h2 align="center"> Senior Android Developer </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=YosifKalchev&label=Profile%20views&color=0e75b6&style=flat" alt="YosifKalchev" /> </p>
+<p align="center"> <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=500&pause=3000&color=0BC386&background=FF421100&center=true&vCenter=true&random=false&width=435&lines=SENIOR+ANDROID+DEVELOPER" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YosifKalchev&theme=github-dark" alt="GitHub Streak" /></a> </p>
 <!---
 <p align="center">
   <a href="https://github.com/YosifKalchev">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=YosifKalchev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yosif's GitHub Stats" />
 </p>-->
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YosifKalchev&theme=dark&border_radius=9&card_width=512" alt="GitHub Streak" /></a>
-</p>
+
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -22,9 +20,7 @@
  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
-
-
-
+<p></p>
 <p align="center">
   <a href="https://github.com/YosifKalchev">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YosifKalchev&show=javascript,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10" />
