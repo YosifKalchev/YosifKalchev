@@ -1,6 +1,6 @@
 <h1 align="center"> Hello 👋, I'm Yosif </h1>
 <p align="center"> <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=500&pause=3000&color=0BC386&background=FF421100&center=true&vCenter=true&random=false&width=435&lines=SENIOR+ANDROID+DEVELOPER" alt="Typing SVG" /></a></p>
-<p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=YosifKalchev&theme=github-dark" alt="GitHub Streak" /></a> </p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=YosifKalchev&theme=github-dark" alt="GitHub Streak" /></p>
 <!---
 <p align="center">
   <a href="https://github.com/YosifKalchev">
